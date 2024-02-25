@@ -1,5 +1,7 @@
 # Hotel Booking Analysis
 
+![Hotel images.png](https://github.com/meabhaykr/EDA-Hotel-Booking-Analysis/blob/main/Hotel%20images.jpg)
+
 ## Project Overview
 
 In the Hotel Booking Analysis project, we performed Exploratory Data Analysis (EDA) on a dataset containing information about hotel bookings. The objective of the analysis was to draw meaningful conclusions and insights about trends and patterns in hotel bookings and how various factors interplay in the booking process.
